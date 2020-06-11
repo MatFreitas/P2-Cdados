@@ -15,7 +15,7 @@ This Project aims to predict the popularity of songs based on their features. Th
 * the year it was released;
 
 
-* its level of acousticness, energy, danceability and loudness, all given in a percentage;
+* its level of acousticness, energy and danceability, all given in a percentage;
 
 
 * whether it includes explicit content, a binary value (1 meaning it does);
@@ -23,6 +23,6 @@ This Project aims to predict the popularity of songs based on their features. Th
 
 * its loudness, given in dB;
 
-Various methods will be investigated in order to determine which one is the best to predict the popularity of a music in Spotify. Analysis will be made with a _Dataframe_ extracted from kaggle containing information of over 160.000 songs. To see our work, go to `P2.ipynb`.
+Various methods will be investigated in order to determine which one is the best to predict the popularity of a music in Spotify. Analysis will be made with a Dataframe extracted from kaggle (link: https://www.kaggle.com/yamaerenay/spotify-dataset-19212020-160k-tracks) containing information of over 160.000 songs. To see our work, go to `P2.ipynb`.
 
 If you want to test our model yourself, go to the end of the file mentioned above and interact with the bars. In case this cell doesn't run for you, execute command `conda install -c conda-forge ipywidgets` in terminal.
