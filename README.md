@@ -1,11 +1,11 @@
 # spotify-popularity
-___
+
 ## Members:
 
 Gabriel Salvator Benatar
 
 Matheus Freitas Sant'Ana
-___
+
 ## Project Description:
 
 
